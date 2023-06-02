@@ -1,0 +1,80 @@
+{
+    "lists": [
+      {
+        "name": "asd",
+        "colorId": 5,
+        "tasks": [],
+        "id": 1
+      },
+      {
+        "name": "asd",
+        "colorId": 1,
+        "tasks": [],
+        "id": 2
+      },
+      {
+        "name": "фыв",
+        "colorId": 3,
+        "tasks": [],
+        "id": 3
+      }
+    ],
+    "tasks": [
+      {
+        "listId": 2,
+        "text": "asd",
+        "completed": false,
+        "id": 1
+      },
+      {
+        "listId": 1,
+        "text": "asdasdsad",
+        "completed": false,
+        "id": 2
+      },
+      {
+        "listId": 1,
+        "text": "фыв",
+        "completed": false,
+        "id": 3
+      },
+      {
+        "listId": 3,
+        "text": "фыв",
+        "completed": false,
+        "id": 4
+      },
+      {
+        "listId": 3,
+        "text": "12цу1у1у",
+        "completed": false,
+        "id": 5
+      }
+    ],
+    "colors": [
+      {
+        "id": 1,
+        "hex": "#FF1493"
+      },
+      {
+        "id": 2,
+        "hex": "#FFD700"
+      },
+      {
+        "id": 3,
+        "hex": "#4B0082"
+      },
+      {
+        "id": 4,
+        "hex": "#008000"
+      },
+      {
+        "id": 5,
+        "hex": "#1E90FF"
+      },
+      {
+        "id": 6,
+        "hex": "#DC143C"
+      }
+    ]
+  }
